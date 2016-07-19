@@ -11,4 +11,4 @@ Contribution are welcome.
 4) Open & Run TrackingUI.pde
 ### Demo
 Set the slider bars to match the HSV values of the yellow color, then start moving a yellow object infront of your camera.
-![alt text](/blob/master/TrackingUI/screenshots/Test_Yellow.PNG?raw=true "Optional Title")
+![Alt Text](https://github.com/LilFinch/OpenCV-Tracking-Processing-UI/raw/master/TrackingUI/screenshots/Test_Yellow.PNG)
