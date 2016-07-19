@@ -15,6 +15,7 @@ Contribution are welcome.
 2) In Processing, access the contribution manager via Sketch-->Import Library-->Add library.
 
 3) Install Arduino(Firmata), commonmath, ControlP5, OpenCV for Processing.
+
 4) Open & Run TrackingUI.pde
 ### Demo
 Set the slider bars to match the HSV values of the yellow color, then start moving a yellow object infront of your camera.
