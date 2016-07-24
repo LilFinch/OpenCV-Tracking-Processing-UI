@@ -9,12 +9,12 @@ I personally had some hard time trying to set up serial communication between op
 This project is based on the OpenCV for processing library created by [atduskgreg](https://github.com/atduskgreg/opencv-processing).
 
 Contribution are welcome.
-### Installing
+### Installation
 1) Install [Processing](https://processing.org/download/) and [Arduino](https://www.arduino.cc/en/Main/Software) IDEs if you don't have them already.
 
 2) In Processing, access the contribution manager via Sketch-->Import Library-->Add library.
 
-3) Install Arduino(Firmata), commonmath, ControlP5, OpenCV for Processing.
+3) Install Arduino(Firmata), Video, ControlP5, OpenCV for Processing. You will also need [commonmath](https://github.com/LilFinch/OpenCV-Tracking-Processing-UI/blob/master/TrackingUI/code/commons-math3-3.6.1.jar) to access complex math operations, it is not necessary for this example (delete lines 6 to 80).  
 
 4) Open & Run [TrackingUI.pde](https://github.com/LilFinch/OpenCV-Tracking-Processing-UI/blob/master/TrackingUI/TrackingUI.pde)
 
